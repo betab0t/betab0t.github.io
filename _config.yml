@@ -3,7 +3,7 @@ remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
 title: 'Omri Ben-Bassat'
-description: '-'
+description: ''
 
 # Images
 avatar: 'avatar.png'
@@ -34,7 +34,7 @@ blog_url: 'https://medium.com/@beta_b0t'
 email: 'beta_b0t@yahoo.com'
 #messenger: 'myfbchat'
 
-social-links-order: [github-user, twitter, youtube, blog_url, email]
+social-links-order: [github-user, twitter, reddit, blog_url, email]
 
 # Advanced settings
 plugins:
