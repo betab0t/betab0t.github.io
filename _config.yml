@@ -34,7 +34,7 @@ blog_url: 'https://medium.com/@beta_b0t'
 email: 'beta_b0t@yahoo.com'
 #messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github-user, twitter, youtube, blog_url, email]
 
 # Advanced settings
 plugins:
