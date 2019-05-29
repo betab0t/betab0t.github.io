@@ -26,15 +26,15 @@ github-user: 'betab0t'
 #lastfm: ''
 #stack-overflow: ''
 reddit: 'beta_b0t'
-#medium:  ''
+medium:  'beta_b0t'
 #tumblr: 'mytumblr'
 #weibo: 'myweibo'
 #vk: 'myvk'
-blog_url: 'https://medium.com/@beta_b0t'
+#blog_url: ''
 email: 'beta_b0t@yahoo.com'
 #messenger: 'myfbchat'
 
-social-links-order: [github-user, twitter, reddit, blog_url, email]
+social-links-order: [github-user, twitter, reddit, medium, email]
 
 # Advanced settings
 plugins:
