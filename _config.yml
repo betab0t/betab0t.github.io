@@ -18,7 +18,7 @@ twitter: 'beta_b0t'
 #instagram: 'myinsta'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
-github-user: 'betab0t'
+github: 'betab0t'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -88,7 +88,7 @@ social-links:
   - name: pinterest
     url-pattern: pinterest.com/__USERNAME__
 
-  - name: github-user
+  - name: github
     url-pattern: github.com/__USERNAME__
     icon-class: fab fa-2x fa-github
 
