@@ -33,8 +33,9 @@ medium:  'beta_b0t'
 #blog_url: ''
 email: 'beta_b0t@yahoo.com'
 #messenger: 'myfbchat'
+hackaday: betab0t
 
-social-links-order: [github-user, twitter, reddit, medium, email]
+social-links-order: [github, twitter, reddit, medium, hackaday, email]
 
 # Advanced settings
 plugins:
@@ -153,3 +154,8 @@ social-links:
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-envelope
+  
+  - name: hackaday
+    url-pattern: hackaday.io/__USERNAME__
+    icon-class: fa fa-2x fa-wrench
+  
